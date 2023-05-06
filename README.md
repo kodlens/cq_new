@@ -1,2 +1,2 @@
 # cq_new
-new template for cq website
+New template for cq website
